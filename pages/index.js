@@ -1,4 +1,6 @@
-{\rtf1\ansi\ansicpg936\cocoartf2822
+export default function Home() {
+  return <h1 style={{ padding: 32, fontSize: 24 }}>POD MVP 上线成功！</h1>;
+}{\rtf1\ansi\ansicpg936\cocoartf2822
 \cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
